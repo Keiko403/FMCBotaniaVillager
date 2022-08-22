@@ -1,0 +1,6 @@
+/.gradle/
+/build/
+runClient.launch
+runData.launch
+runGameTestServer.launch
+runServer.launch
