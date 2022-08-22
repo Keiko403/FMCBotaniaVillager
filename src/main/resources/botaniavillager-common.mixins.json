@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "keiko403.botaniavillager.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "PoiTypeInvoker",
+    "VillagerProfessionInvoker"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
